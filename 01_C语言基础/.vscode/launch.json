@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/codebyfsn/01_C语言基础/成绩单",
-      "program": "d:/codebyfsn/01_C语言基础/成绩单/build/Debug/outDebug",
+      "cwd": "d:/codebyfsn/LightChaser-Training-58/01_C语言基础/odd_sum",
+      "program": "d:/codebyfsn/LightChaser-Training-58/01_C语言基础/odd_sum/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

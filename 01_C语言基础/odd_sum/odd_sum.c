@@ -10,6 +10,6 @@ int main()
             sum=sum+i;
         }
     }
-    printf("1~100奇数和= %d\n",sum);
+    printf("1~100的奇数和= %d\n",sum);
     return 0;
 }
